@@ -10,26 +10,44 @@ A computer vision project for detecting Personal Protective Equipment (PPE) such
 
 ```
 PPE_SAFETY_DETECTION/
-│
-├── data/                # Dataset storage
-│   ├── raw/             # Raw images and annotations
-│   └── processed/       # Preprocessed data (e.g., resized, augmented)
-│       └── sample.jpg   # Example image
-│
-├── docs/                # Documentation and references
-├── models/              # Trained models and checkpoints
-├── notebooks/           # Jupyter notebooks for experiments
-│   └── ppe_detection_demo.ipynb
-├── src/                 # Source code
-│   └── main.py          # Entry point for training/inference
-├── tests/               # Unit tests
-│   └── test_main.py
-│
-├── .gitignore           # Git ignore rules
-├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
-```
 
+│
+
+├── data/                # Dataset storage
+
+│   ├── raw/             # Raw images and annotations
+
+│   └── processed/       # Preprocessed data (e.g., resized, augmented)
+
+│       └── sample.jpg   # Example image
+
+│
+
+├── docs/                # Documentation and references
+
+├── models/              # Trained models and checkpoints
+
+├── notebooks/           # Jupyter notebooks for experiments
+
+│   └── ppe_detection_demo.ipynb
+
+├── src/                 # Source code
+
+│   └── main.py          # Entry point for training/inference
+
+├── tests/               # Unit tests
+
+│   └── test_main.py
+
+│
+
+├── .gitignore           # Git ignore rules
+
+├── README.md            # Project documentation
+
+├── requirements.txt     # Python dependencies
+
+```
 ---
 
 ##  Features
