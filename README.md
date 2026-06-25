@@ -1,12 +1,12 @@
 
 ```markdown
-# 🦺 PPE Safety Detection
+#  PPE Safety Detection
 
 A computer vision project for detecting Personal Protective Equipment (PPE) such as helmets, vests, gloves, and masks in workplace environments. This project leverages deep learning models to enhance workplace safety by automatically identifying compliance with PPE requirements.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 PPE_SAFETY_DETECTION/
@@ -32,7 +32,7 @@ PPE_SAFETY_DETECTION/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Detects PPE items (helmets, vests, gloves, masks) in images or video streams.
 - Modular pipeline for data preprocessing, training, and inference.
@@ -42,7 +42,7 @@ PPE_SAFETY_DETECTION/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository and install dependencies:
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Usage
+##  Usage
 
 ### Run Inference
 ```bash
@@ -69,7 +69,7 @@ notebooks/ppe_detection_demo.ipynb
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run unit tests:
 ```bash
@@ -78,7 +78,7 @@ pytest tests/
 
 ---
 
-## 📈 Workflow
+##  Workflow
 
 1. **Data Preparation** → Place raw images in `data/raw/`, preprocess into `data/processed/`.
 2. **Model Training** → Train models and save checkpoints in `models/`.
@@ -87,13 +87,13 @@ pytest tests/
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Additional references and detailed explanations are available in the `docs/` folder.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
 
